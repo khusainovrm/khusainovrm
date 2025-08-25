@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **golang and webgls**
 
-- 💬 Ask me about **vue**
+- 💬 [My page](https://profile.rinat-khusainov.ru/)
 
 - 📫 How to reach me **khusainovrm@yandex.ru**
 
