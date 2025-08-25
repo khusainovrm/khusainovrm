@@ -1,5 +1,6 @@
-## Hi there 👋
-
+👋 Hi, I'm Rinat Khusainov
+  Passionate web developer 🚀
+  
 <!--
 **khusainovrm/khusainovrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
